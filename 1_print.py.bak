@@ -6,4 +6,3 @@ print "Hello world!"
 print 'Hello','严志龙'
 # 打印表达式
 print '100 + 200 = ',100 + 200
-print # 输出一个换行符
